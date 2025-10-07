@@ -1,11 +1,21 @@
 body{
     background-image: url("CS330Project2BG.jpg");
+    background-size: 2000px 1200px;
+}
+
+#spaceman{
+    position: absolute;
+    width: auto;
+    height: 30%; 
+    left: 80%;
+    top: 0;
 }
 
 #MainHeader{
     text-align: center;
     margin-top: 350px;
     font-size: 80px;
+    color: white;
 }
 
 #query{
@@ -13,7 +23,7 @@ body{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 700px; /* Example width */
+    width: 700px;
     padding: 10px;
     border: 1px solid #ccc;
 }
@@ -24,8 +34,15 @@ body{
     left: 65.8%;
 }
 
-
 #timeButton{
     position: absolute;
     top: 2%;
+}
+
+#searchResults{
+    visibility: hidden;
+}
+
+#time{
+    visibility: hidden;
 }
