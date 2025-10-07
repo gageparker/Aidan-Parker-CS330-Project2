@@ -1,3 +1,27 @@
-.MainHeader{
+#MainHeader{
     text-align: center;
+    margin-top: 350px;
+    font-size: 80px;
+}
+
+#query{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 700px; /* Example width */
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+#button{
+    position: absolute;
+    top: 52.5%;
+    left: 65.8%;
+}
+
+
+#timeButton{
+    position: absolute;
+    top: 2%;
 }
