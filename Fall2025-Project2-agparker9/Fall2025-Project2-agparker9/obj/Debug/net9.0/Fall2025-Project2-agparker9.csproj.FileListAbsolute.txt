@@ -95,5 +95,6 @@
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/Fall2025-Project2-agparker9.pdb
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/Fall2025-Project2-agparker9.genruntimeconfig.cache
 /Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/ref/Fall2025-Project2-agparker9.dll
-/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/compressed/gc0w5a59z5-cgjoumvvtj.gz
-/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/compressed/5xt1mqy2qk-530mn2pnas.gz
+/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/compressed/gc0w5a59z5-ucs5smen2f.gz
+/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/compressed/1a2pbtetjy-fnzsqcdn38.gz
+/Users/gageparker/Documents/GitHub/Aidan-Parker-CS330-Project2/Fall2025-Project2-agparker9/Fall2025-Project2-agparker9/obj/Debug/net9.0/compressed/5xt1mqy2qk-fe5u5hh56s.gz

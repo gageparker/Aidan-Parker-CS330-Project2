@@ -16,6 +16,13 @@ body{
     margin-top: 350px;
     font-size: 80px;
     color: white;
+    text-shadow:
+            -2px -2px 0 #000,
+            2px -2px 0 #000,
+            -2px 2px 0 #000,
+            2px 2px 0 #000;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 #query{
@@ -40,9 +47,21 @@ body{
 }
 
 #searchResults{
-    visibility: hidden;
+    
 }
 
 #time{
-    visibility: hidden;
+}
+
+#searchHeader{
+    color: white;
+    margin-top: 20%;
+    font-size: 40px; 
+    -webkit-text-stroke: 1px black;     /* outline thickness and color */
+    font-weight: bold;
+}
+
+#searchResults{
+    margin-top: 0%;
+    background-color: white;
 }
