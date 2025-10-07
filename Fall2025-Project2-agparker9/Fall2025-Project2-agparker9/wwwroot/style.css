@@ -1,3 +1,7 @@
+body{
+    background-image: url("CS330Project2BG.jpg");
+}
+
 #MainHeader{
     text-align: center;
     margin-top: 350px;
