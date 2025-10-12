@@ -1,0 +1,7 @@
+/var/folders/6j/lnzr6_5d3jbc5_h969wrn_vc0000gn/T/rider-publish7503911657414593639/Fall2025-Project2-agparker9
+/var/folders/6j/lnzr6_5d3jbc5_h969wrn_vc0000gn/T/rider-publish7503911657414593639/appsettings.Development.json
+/var/folders/6j/lnzr6_5d3jbc5_h969wrn_vc0000gn/T/rider-publish7503911657414593639/appsettings.json
+/var/folders/6j/lnzr6_5d3jbc5_h969wrn_vc0000gn/T/rider-publish7503911657414593639/Fall2025-Project2-agparker9.dll
+/var/folders/6j/lnzr6_5d3jbc5_h969wrn_vc0000gn/T/rider-publish7503911657414593639/Fall2025-Project2-agparker9.deps.json
+/var/folders/6j/lnzr6_5d3jbc5_h969wrn_vc0000gn/T/rider-publish7503911657414593639/Fall2025-Project2-agparker9.runtimeconfig.json
+/var/folders/6j/lnzr6_5d3jbc5_h969wrn_vc0000gn/T/rider-publish7503911657414593639/Fall2025-Project2-agparker9.pdb

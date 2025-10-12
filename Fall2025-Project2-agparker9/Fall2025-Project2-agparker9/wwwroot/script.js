@@ -1,10 +1,9 @@
-// Your API key and Search Engine ID
 const API_KEY = "AIzaSyBMQW6baENHCbwX56iEoOeqGsBGBBzR8_k";
 const CX = "2688b078359474b44";
 
 $("#button").click(function() {
     const query = $("#query").val().trim();
-    if (!query) return; // Skip empty queries
+    if (!query) return; 
 
     $("#searchHeader").text(`Search Results for "${query}"`);
     const url = `https://www.googleapis.com/customsearch/v1?key=${API_KEY}&cx=${CX}&q=${encodeURIComponent(query)}`;
@@ -40,7 +39,7 @@ const images= [
 
 let current = 0;
 $("#MainHeader").click(function() {
-    current = (current + 1) % images.length; // cycle through images
+    current = (current + 1) % images.length; 
     $("body").css({
         "background-image": `url(${images[current]})`,
         "background-size": "cover",
@@ -53,11 +52,9 @@ $("#timeButton").click(function() {
     const now = new Date();
     const hours = String(now.getHours()).padStart(2, "0");
     const minutes = String(now.getMinutes()).padStart(2, "0");
-
-    // Put the time into the div
+    
     $("#time").text(`Current Time: ${hours}:${minutes}`);
-
-    // Open as a jQueryUI dialog
+    
     $("#time").dialog({
         modal: true,
         title: "Current Time",
